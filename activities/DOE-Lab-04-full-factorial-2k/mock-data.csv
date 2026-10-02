@@ -1,0 +1,9 @@
+Temperature (°C),Pressure (bar),Surface prep,Bond_strength_MPa
+120,2,Solvent,18.0
+120,2,Plasma,23.0
+120,6,Solvent,22.4
+120,6,Plasma,27.4
+160,2,Solvent,24.4
+160,2,Plasma,29.4
+160,6,Solvent,36.8
+160,6,Plasma,41.8
